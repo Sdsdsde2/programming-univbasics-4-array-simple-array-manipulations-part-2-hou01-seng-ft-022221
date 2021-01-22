@@ -6,8 +6,7 @@ end
 
 def using_insert(array, new_element)
   #binding.pry
-  array.insert(3, new_element)
-  #array.insert(new_element, array[3])
+  array.insert(4, new_element)
 end
 
 def using_uniq(array)
